@@ -1,0 +1,74 @@
+Monthly Budget Tracker
+"Track your income, expenses, and savings goals with this easy-to-use spreadsheet."
+
+INSTRUCTIONS
+"1. Enter your monthly income sources below"
+"2. Log every expense with category, date, and amount"
+"3. Review the Summary section to see where your money goes"
+"4. Adjust your budget categories as needed"
+
+═══════════════════════════════════════════════════
+INCOME
+═══════════════════════════════════════════════════
+Source,Expected,Actual,Difference
+Primary Job / Salary,$0.00,$0.00,$0.00
+Side Hustle / Freelance,$0.00,$0.00,$0.00
+Investments / Dividends,$0.00,$0.00,$0.00
+Other Income,$0.00,$0.00,$0.00
+TOTAL INCOME,$0.00,$0.00,$0.00
+
+═══════════════════════════════════════════════════
+MONTHLY BUDGET BY CATEGORY
+═══════════════════════════════════════════════════
+Category,Budgeted,Actual,Remaining,% Used
+Housing (Rent/Mortgage),$0.00,$0.00,$0.00,0%
+Utilities (Electric/Water/Gas),$0.00,$0.00,$0.00,0%
+Internet / Phone,$0.00,$0.00,$0.00,0%
+Groceries,$0.00,$0.00,$0.00,0%
+Transportation (Gas/Transit),$0.00,$0.00,$0.00,0%
+Insurance (Health/Auto/Life),$0.00,$0.00,$0.00,0%
+Dining Out / Takeout,$0.00,$0.00,$0.00,0%
+Entertainment / Subscriptions,$0.00,$0.00,$0.00,0%
+Clothing,$0.00,$0.00,$0.00,0%
+Personal Care / Health,$0.00,$0.00,$0.00,0%
+Education / Books,$0.00,$0.00,$0.00,0%
+Gifts / Donations,$0.00,$0.00,$0.00,0%
+Savings / Emergency Fund,$0.00,$0.00,$0.00,0%
+Debt Payments,$0.00,$0.00,$0.00,0%
+Miscellaneous,$0.00,$0.00,$0.00,0%
+TOTAL EXPENSES,$0.00,$0.00,$0.00,0%
+
+═══════════════════════════════════════════════════
+EXPENSE LOG
+═══════════════════════════════════════════════════
+Date,Category,Description,Amount,Payment Method,Notes
+2026-01-01,Groceries,Weekly grocery run,$0.00,Debit Card,
+2026-01-01,Transportation,Gas fill-up,$0.00,Credit Card,
+
+═══════════════════════════════════════════════════
+MONTHLY SUMMARY
+═══════════════════════════════════════════════════
+Metric,Amount
+Total Income,$0.00
+Total Expenses,$0.00
+Net Savings,$0.00
+Savings Rate,0%
+Top Spending Category,N/A
+Budget Adherence,0%
+
+═══════════════════════════════════════════════════
+SAVINGS GOALS
+═══════════════════════════════════════════════════
+Goal,Target Amount,Current Saved,Monthly Contribution,Months to Goal
+Emergency Fund (3-6 months),$0.00,$0.00,$0.00,0
+Vacation,$0.00,$0.00,$0.00,0
+New Car / Down Payment,$0.00,$0.00,$0.00,0
+Investment Account,$0.00,$0.00,$0.00,0
+
+═══════════════════════════════════════════════════
+DEBT PAYOFF TRACKER
+═══════════════════════════════════════════════════
+Debt Name,Total Owed,Interest Rate,Min Payment,Extra Payment,Payoff Date
+Credit Card,$0.00,0%,$0.00,$0.00,
+Student Loan,$0.00,0%,$0.00,$0.00,
+Car Loan,$0.00,0%,$0.00,$0.00,

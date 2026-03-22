@@ -1,0 +1,72 @@
+INVOICE
+═══════════════════════════════════════════════════
+
+FROM:,,,TO:
+Your Business Name,,,Client Name
+Your Address Line 1,,,Client Address Line 1
+Your Address Line 2,,,Client Address Line 2
+City / State / ZIP,,,City / State / ZIP
+Phone: (555) 000-0000,,,Phone: (555) 000-0000
+Email: you@email.com,,,Email: client@email.com
+
+═══════════════════════════════════════════════════
+INVOICE DETAILS
+═══════════════════════════════════════════════════
+Invoice Number:,INV-001
+Invoice Date:,2026-01-01
+Due Date:,2026-01-31
+Payment Terms:,Net 30
+
+═══════════════════════════════════════════════════
+ITEMIZED SERVICES / PRODUCTS
+═══════════════════════════════════════════════════
+#,Description,Quantity,Unit Price,Amount
+1,Service or product description,1,$0.00,$0.00
+2,Service or product description,1,$0.00,$0.00
+3,Service or product description,1,$0.00,$0.00
+4,Service or product description,1,$0.00,$0.00
+5,Service or product description,1,$0.00,$0.00
+
+═══════════════════════════════════════════════════
+TOTALS
+═══════════════════════════════════════════════════
+,,,Subtotal:,$0.00
+,,,Discount (0%):,-$0.00
+,,,Tax (0%):,$0.00
+,,,TOTAL DUE:,$0.00
+
+═══════════════════════════════════════════════════
+PAYMENT INFORMATION
+═══════════════════════════════════════════════════
+Payment Methods Accepted:
+- Bank Transfer: Routing # 000000000 / Account # 000000000
+- PayPal: you@email.com
+- Venmo: @yourhandle
+- Check: Made payable to "Your Business Name"
+
+═══════════════════════════════════════════════════
+TERMS & CONDITIONS
+═══════════════════════════════════════════════════
+"1. Payment is due within 30 days of invoice date."
+"2. Late payments are subject to a 1.5% monthly fee."
+"3. Please include the invoice number with your payment."
+"4. Questions? Contact us at you@email.com"
+
+Thank you for your business!
+
+═══════════════════════════════════════════════════
+INVOICE LOG (Track All Invoices)
+═══════════════════════════════════════════════════
+Invoice #,Client,Date Sent,Amount,Due Date,Date Paid,Status,Notes
+INV-001,Client Name,2026-01-01,$0.00,2026-01-31,,Unpaid,
+INV-002,,,,,,Unpaid,
+INV-003,,,,,,Unpaid,
+
+═══════════════════════════════════════════════════
+QUARTERLY REVENUE SUMMARY
+═══════════════════════════════════════════════════
+Month,Invoices Sent,Total Billed,Total Collected,Outstanding
+January,0,$0.00,$0.00,$0.00
+February,0,$0.00,$0.00,$0.00
+March,0,$0.00,$0.00,$0.00
+Q1 Total,0,$0.00,$0.00,$0.00
